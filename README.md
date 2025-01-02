@@ -8,7 +8,7 @@ Although created for 1.19.2 by request, if wanted for another version, please cr
 
 ## Installation
 
-Find the [latest release](https://github.com/a-riceeater/releases/latest) for your version of minecraft and download the .jar file for it. You can then drag that into your mods folder.
+Find the [latest release](https://github.com/a-riceeater/craftable-gunpowder-mod/releases/latest) for your version of minecraft and download the .jar file for it. You can then drag that into your mods folder.
 
 ## Bug Report
 
