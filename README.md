@@ -4,11 +4,11 @@ This is a requested mod for Forge 1.19.2 that adds a crafting recipe for gunpowd
 
 Although created for 1.19.2 by request, if wanted for another version, please create an issue with the version requested.
 
-< insert image >
+![image](https://github.com/user-attachments/assets/aed2fd0b-7cc1-4a61-beb0-cb6799be4f29)
 
 ## Installation
 
-Find the latest release for your version of minecraft and download the .jar file for it. You can then drag that into your mods folder.
+Find the [latest release](https://github.com/a-riceeater/releases/latest) for your version of minecraft and download the .jar file for it. You can then drag that into your mods folder.
 
 ## Bug Report
 
